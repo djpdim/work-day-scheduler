@@ -3,6 +3,10 @@
 The Work-Day Scheduler is a day task calendar, where the user can add their daily tasks and save them to the local storage.
 It is hourly interactive and can be very helpful.
 
+https://github.com/djpdim/work-day-scheduler
+
+https://djpdim.github.io/work-day-scheduler/
+
 
 ### Summary
 * HTML and CSS and Javascript documents create a day planner with an 10-hour work day
